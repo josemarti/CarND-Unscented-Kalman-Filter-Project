@@ -22,16 +22,16 @@ The output coordinates have an RMSE=[0.068, 0.082, 0.348, 0.202].
 ## Follows the Correct Algorithm
 
 The algorithm:
-•	follows the general processing flow as taught in the preceding lessons.	
-•	handles the first measurements appropriately. 
-•	should predict object position to the current timestep and then update the prediction using the new measurement.
-•	handles radar and lidar measurements.	
+1. follows the general processing flow as taught in the preceding lessons.	
+2. handles the first measurements appropriately. 
+3. should predict object position to the current timestep and then update the prediction using the new measurement.
+4. handles radar and lidar measurements.	
 
 The algorithm has been tried to be coded using good practices.
 
 
 ## Conclusion
 
-Thanks to the existing code from the lesson the codification has been simplified. However, I am starting to refresh my forgotten C knowledge and finally I have been able to accomplish the minimum requirements.
+Thanks to the existing code from the lesson the codification has been simplified. Fortunatelly, I am starting to refresh my forgotten C knowledge and finally I have been able to accomplish the minimum requirements.
 
 
