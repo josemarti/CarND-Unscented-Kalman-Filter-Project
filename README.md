@@ -15,7 +15,7 @@ After fine tuning the parameters:
 
 The output coordinates have an RMSE=[0.068, 0.082, 0.348, 0.202].
 
-![input 1 results](plot2.png)
+![pic](plot2.png)
 
 
 ## Follows the Correct Algorithm
