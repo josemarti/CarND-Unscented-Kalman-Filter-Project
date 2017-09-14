@@ -8,6 +8,7 @@ The code provided during the quiz at the lessons was used as reference.
 
 The dataset used is "obj_pose-laser-radar-synthetic-input.txt". 
 Requirement is that the px, py, vx, vy output coordinates must have an RMSE <= [.09, .10, .40, .30]. 
+
 After fine tuning the parameters:
 
 •	Process noise standard deviation longitudinal acceleration in m/s^2 = std_a_ = 1.2    
